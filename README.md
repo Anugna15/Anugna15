@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anugna15&label=Profile%20views&color=0e75b6&style=flat" alt="anugna15" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anugna15" alt="anugna15" /></a> </p>
 
 - 🔭 I’m currently working on [AI companion For personalized Healthcare](https://huggingface.co/spaces/anusomepalli/diseasedetection)
 
