@@ -9,6 +9,8 @@
 - 🌱 I’m currently learning **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Anugna15/Anugna](https://github.com/Anugna15/Anugna)
+- 🔗 **Live Portfolio:**  
+[https://preeminent-parfait-382312.netlify.app/](https://preeminent-parfait-382312.netlify.app/)
 
 - 💬 Ask me about **Python,Machine Learning Models,SQL,Pandas,Numpy,Scikit,Matplotlib,DeepLearning,CNN,ANN**
 
